@@ -1,3 +1,10 @@
+
+![Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+![Python Version](https://img.shields.io/badge/Python-3.10-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows%2011-lightgrey)
+![API](https://img.shields.io/badge/Gemini-2.0-ff8800)
+
+
 # Review Trend AI
 
 **Review Trend AI** is an intelligent analytics tool designed to extract, process, and analyze daily customer feedback trends from Google Play app reviews. By leveraging Large Language Models (LLMs), it transforms unstructured user reviews into actionable insights, helping product teams identify recurring issues like "delivery delay" or "food cold" and track their frequency over time.
@@ -163,7 +170,6 @@ If you use this project for academic or research purposes, please cite it as fol
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Mohammad Arshad ALi]**  
 *Student / Developer*  
-[GitHub Profile Link]  
-[Email Address]
+
