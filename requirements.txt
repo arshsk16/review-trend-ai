@@ -1,0 +1,8 @@
+pandas
+numpy
+google-play-scraper
+chromadb
+google-generativeai
+sentence-transformers
+torch
+tqdm
